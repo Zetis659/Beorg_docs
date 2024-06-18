@@ -26,12 +26,12 @@ datasets/classification_yolo/val/straight/*
 
 datasets/detection_yolo/images/train/*
 !datasets/detection_yolo/images/train/.gitkeep
-datasets/detection_yolo/images/val/*
-!datasets/detection_yolo/images/val/.gitkeep
+#datasets/detection_yolo/images/val/*
+#!datasets/detection_yolo/images/val/.gitkeep
 datasets/detection_yolo/labels/train/*
 !datasets/detection_yolo/labels/train/.gitkeep
-datasets/detection_yolo/labels/val/*
-!datasets/detection_yolo/labels/val/.gitkeep
+#datasets/detection_yolo/labels/val/*
+#!datasets/detection_yolo/labels/val/.gitkeep
 
 images/*
 !images/.gitkeep
