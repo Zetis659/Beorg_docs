@@ -1,0 +1,5 @@
+train: /home/zetis/Документы/VENVs/pt/datasets/detection_yolo/images/train
+val: /home/zetis/Документы/VENVs/pt/datasets/detection_yolo/images/val
+
+nc: 1
+names: ['stamp']
