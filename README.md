@@ -17,7 +17,7 @@
 Время обработки папки eval, в которой находилось 660 фото, составило 64.8 секунды на GPU моего ПК.
 
 ### Specs
-CPU: ryzen 7 5700X3D 8c/16t
-GPU: RX 6800 XT 16GB
-RAM: 32GB ddr4 3200 mhz
-OS: Manjaro GNOME 45.4 (wayland)
+CPU: ryzen 7 5700X3D 8c/16t  
+GPU: RX 6800 XT 16GB  
+RAM: 32GB ddr4 3200 mhz  
+OS: Manjaro GNOME 45.4 (wayland)  
